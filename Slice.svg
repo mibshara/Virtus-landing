@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1008px" height="615px" viewBox="0 0 1008 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="92.3299372%" y1="100%" x2="19.1178165%" y2="-1.52432923%" id="linearGradient-1">
+            <stop stop-color="#EEF1F6" offset="0%"></stop>
+            <stop stop-color="#FCFDFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-27.7718101%" y1="50%" x2="72.8013241%" y2="113.088591%" id="linearGradient-2">
+            <stop stop-color="#6093F8" offset="0%"></stop>
+            <stop stop-color="#2AE9DC" offset="98.9410224%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="-16" y="0" width="1024" height="615"></rect>
+        <path d="M275,-255 L1140.90359,-255 L1283.14811,46.8874522 L788.470556,319.63444 C743.810544,344.258326 687.775306,331.329919 658.417757,289.628759 L275,-255 Z" id="bg-shape" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>
